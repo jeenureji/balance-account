@@ -1,0 +1,1296 @@
+{
+  "accountHolder": "M JEENU REJI",
+  "accountNumber": "104510100121416",
+  "customerId": "54778427",
+  "bank": "Union Bank of India",
+  "statementDate": "08/06/2025 14:32",
+  "statementPeriod": {
+    "from": "07-05-2025",
+    "to": "08-06-2025"
+  },
+  "transactions": [
+    {
+      "date": "07-05-2025",
+      "time": "07:55:41",
+      "transactionId": "W39118546",
+      "type": "NEFT",
+      "details": "MONDEE TECH PRIVATE LIMITED Sender No:AXISP006618 15207",
+      "credit": 145200.00,
+      "balance": 190016.43
+    },
+    {
+      "date": "07-05-2025",
+      "time": "09:02:28",
+      "transactionId": "W42545626",
+      "type": "UPI",
+      "details": "AR/462495389149 /DR/SRINIVAS/SBIN/ skadaari2@ib",
+      "debit": 186.00,
+      "balance": 189830.43
+    },
+    {
+      "date": "07-05-2025",
+      "time": "09:03:29",
+      "transactionId": "W42581273",
+      "type": "UPI",
+      "details": "AR/103491330761 /DR/Hyderaba/YESB/ HYDMETROINAPP@",
+      "debit": 55.00,
+      "balance": 189775.43
+    },
+    {
+      "date": "07-05-2025",
+      "time": "16:46:05",
+      "transactionId": "W67680012",
+      "type": "UPI",
+      "details": "AR/325354987919 /DR/JEENU RE/ICIC/wildbuddynro @a",
+      "debit": 10000.00,
+      "balance": 179775.43
+    },
+    {
+      "date": "07-05-2025",
+      "time": "21:12:22",
+      "transactionId": "W88543338",
+      "type": "UPI",
+      "details": "AR/837760016510 /DR/RENAULT /ICIC/PPSMOTORSP VTLT",
+      "debit": 13091.00,
+      "balance": 166684.43
+    },
+    {
+      "date": "07-05-2025",
+      "time": "21:18:43",
+      "transactionId": "W88955539",
+      "type": "UPI",
+      "details": "AR/907647155488 /DR/MYLAGANI/INDB/ 9398289379-3@a",
+      "debit": 500.00,
+      "balance": 166184.43
+    },
+    {
+      "date": "09-05-2025",
+      "time": "17:41:55",
+      "transactionId": "X93594564",
+      "type": "UPI",
+      "details": "AR/026260247912 /DR/District/ICIC/districtdining",
+      "debit": 359.75,
+      "balance": 165824.68
+    },
+    {
+      "date": "09-05-2025",
+      "time": "22:37:37",
+      "transactionId": "Y14735852",
+      "type": "UPI",
+      "details": "AR/665240067139 /DR/LEO MERI/YESB/paytmqr2810050",
+      "debit": 5049.00,
+      "balance": 160775.68
+    },
+    {
+      "date": "09-05-2025",
+      "time": "22:37:53",
+      "transactionId": "Y14732569",
+      "type": "UPI",
+      "details": "AB/825501708130 /CR/M SHEESA/UBIN/ sheesareji@ib",
+      "credit": 5000.00,
+      "balance": 165775.68
+    },
+    {
+      "date": "10-05-2025",
+      "time": "18:49:34",
+      "transactionId": "Y55939762",
+      "type": "UPI",
+      "details": "AR/676545630011 /DR/DANTURI /ICIC/prasad.danturi",
+      "debit": 700.00,
+      "balance": 165075.68
+    },
+    {
+      "date": "10-05-2025",
+      "time": "19:31:46",
+      "transactionId": "Y59568868",
+      "type": "UPI",
+      "details": "AR/079550056003 /DR/Mr AKHIL/YESB/ Q313677675@yb",
+      "debit": 15.00,
+      "balance": 165060.68
+    },
+    {
+      "date": "12-05-2025",
+      "time": "14:37:47",
+      "transactionId": "S55553682",
+      "type": "UPI",
+      "details": "AR/016372377212 /DR/Make My /YESB/MAKEMYTRIP 1ONL",
+      "debit": 5151.00,
+      "balance": 159909.68
+    },
+    {
+      "date": "12-05-2025",
+      "time": "16:20:54",
+      "transactionId": "S60263854",
+      "type": "UPI",
+      "details": "AR/802460043810 /DR/JYOTI BH/HDFC/ 770282079@ax",
+      "debit": 100.00,
+      "balance": 159809.68
+    },
+    {
+      "date": "12-05-2025",
+      "time": "17:24:49",
+      "transactionId": "S63743722",
+      "type": "UPI",
+      "details": "AR/801806933096 /DR/B the li/YESB/ Q958416885@yb",
+      "debit": 1520.00,
+      "balance": 158289.68
+    },
+    {
+      "date": "12-05-2025",
+      "time": "20:19:08",
+      "transactionId": "S73681505",
+      "type": "UPI",
+      "details": "AR/513239715447 /DR/Swiggy L/UTIB/swiggy1online.",
+      "debit": 852.00,
+      "balance": 157437.68
+    },
+    {
+      "date": "13-05-2025",
+      "time": "11:38:21",
+      "transactionId": "T2117616",
+      "type": "UPI",
+      "details": "AR/925663387304 /DR/JYOTI BH/HDFC/ 770282079@ax",
+      "debit": 1300.00,
+      "balance": 156137.68
+    },
+    {
+      "date": "13-05-2025",
+      "time": "12:34:33",
+      "transactionId": "T5432366",
+      "type": "UPI",
+      "details": "AR/689212270240 /DR/JYOTI BH/HDFC/ 770282079@ax",
+      "debit": 290.00,
+      "balance": 155847.68
+    },
+    {
+      "date": "14-05-2025",
+      "time": "09:58:14",
+      "transactionId": "T56732181",
+      "type": "MOBCC",
+      "details": "43737821904 17000/513409316332/ Credit Card Pa",
+      "debit": 5610.56,
+      "balance": 150237.12
+    },
+    {
+      "date": "14-05-2025",
+      "time": "10:30:00",
+      "transactionId": "T58471872",
+      "type": "POS",
+      "details": "TGSPDCL/Mumbai/513410589669",
+      "debit": 2799.00,
+      "balance": 147438.12
+    },
+    {
+      "date": "14-05-2025",
+      "time": "10:31:37",
+      "transactionId": "T58554519",
+      "type": "POS",
+      "details": "TGSPDCL/Mumbai/513410589871",
+      "debit": 221.00,
+      "balance": 147217.12
+    },
+    {
+      "date": "14-05-2025",
+      "time": "10:33:06",
+      "transactionId": "T58628297",
+      "type": "POS",
+      "details": "TGSPDCL/Mumbai/513410590024",
+      "debit": 1461.00,
+      "balance": 145756.12
+    },
+    {
+      "date": "14-05-2025",
+      "time": "10:34:15",
+      "transactionId": "T58708880",
+      "type": "POS",
+      "details": "TGSPDCL/Mumbai/513410590188",
+      "debit": 177.00,
+      "balance": 145579.12
+    },
+    {
+      "date": "14-05-2025",
+      "time": "10:37:30",
+      "transactionId": "T58910259",
+      "type": "POS",
+      "details": "HMWSSBNE/Mumbai/513410590560",
+      "debit": 300.00,
+      "balance": 145279.12
+    },
+    {
+      "date": "14-05-2025",
+      "time": "12:39:00",
+      "transactionId": "T65980086",
+      "type": "UPI",
+      "details": "AR/250320260584 /DR/Syed Fay/SBIN/9959278825 -4@i",
+      "debit": 2400.00,
+      "balance": 142879.12
+    },
+    {
+      "date": "14-05-2025",
+      "time": "13:30:23",
+      "transactionId": "T68954164",
+      "type": "UPI",
+      "details": "AR/550083226638 /DR/Swiggy L/UTIB/swiggy1online.",
+      "debit": 680.00,
+      "balance": 142199.12
+    },
+    {
+      "date": "14-05-2025",
+      "time": "16:10:04",
+      "transactionId": "T76743433",
+      "type": "NEFT",
+      "details": "EMPLOYEE PROVIDENT FUND ORGANIZATIO SBIN12513 Sender No:SBIN125134601768",
+      "credit": 65700.00,
+      "balance": 207899.12
+    },
+    {
+      "date": "14-05-2025",
+      "time": "20:41:21",
+      "transactionId": "T96578578",
+      "type": "UPI",
+      "details": "AR/550017446169 /DR/SWIGGY L/UTIB/swiggyinstamar",
+      "debit": 1260.00,
+      "balance": 206639.12
+    },
+    {
+      "date": "15-05-2025",
+      "time": "07:32:49",
+      "transactionId": "U9845148UPIAR/513557962811",
+      "type": "DR",
+      "details": "ICCL/YESB/ICCLMF@yb",
+      "debit": 10000.00,
+      "credit": null,
+      "balance": 196639.12
+    },
+    {
+      "date": "15-05-2025",
+      "time": "21:00:38",
+      "transactionId": "U58306881UPIAR/295783287551",
+      "type": "DR",
+      "details": "DANTURI/ICIC/prasad.danturi",
+      "debit": 2000.00,
+      "credit": null,
+      "balance": 194639.12
+    },
+    {
+      "date": "15-05-2025",
+      "time": "22:11:19",
+      "transactionId": "U62300493UPIAB/244811121932",
+      "type": "CR",
+      "details": "DANTURI/SBIN/9912053313@ax",
+      "debit": null,
+      "credit": 2000.00,
+      "balance": 196639.12
+    },
+    {
+      "date": "16-05-2025",
+      "time": "06:54:53",
+      "transactionId": "U70684199UPIAR/177065313746",
+      "type": "DR",
+      "details": "JEENU/ICIC/wildbuddynro@a",
+      "debit": 10000.00,
+      "credit": null,
+      "balance": 186639.12
+    },
+    {
+      "date": "17-05-2025",
+      "time": "12:30:06",
+      "transactionId": "V44919224UPIAR/231461846064",
+      "type": "DR",
+      "details": "Patlavat/SBIN/9704849620@ax",
+      "debit": 1150.00,
+      "credit": null,
+      "balance": 185489.12
+    },
+    {
+      "date": "17-05-2025",
+      "time": "15:02:40",
+      "transactionId": "V53063989UPIAR/481163079011",
+      "type": "DR",
+      "details": "Sapthagi/YESB/paytm-35518565",
+      "debit": 700.00,
+      "credit": null,
+      "balance": 184789.12
+    },
+    {
+      "date": "17-05-2025",
+      "time": "15:39:14",
+      "transactionId": "V54744606UPIAR/378870064685",
+      "type": "DR",
+      "details": "Cafe Cof/YESB/Q684093786@yb",
+      "debit": 700.00,
+      "credit": null,
+      "balance": 184089.12
+    },
+    {
+      "date": "17-05-2025",
+      "time": "17:34:59",
+      "transactionId": "V60914820UPIAR/320793414237",
+      "type": "DR",
+      "details": "Cafe Cof/YESB/Q684093786@yb",
+      "debit": 750.00,
+      "credit": null,
+      "balance": 183339.12
+    },
+    {
+      "date": "17-05-2025",
+      "time": "19:20:21",
+      "transactionId": "V68836440UPIAR/550367120841",
+      "type": "DR",
+      "details": "SWIGGY L/UTIB/swiggyinstamar",
+      "debit": 149.00,
+      "credit": null,
+      "balance": 183190.12
+    },
+    {
+      "date": "18-05-2025",
+      "time": "12:27:53",
+      "transactionId": "W894300UPIAR/260123817604",
+      "type": "DR",
+      "details": "Bank Acc/SIBL/06940730000001",
+      "debit": 30000.00,
+      "credit": null,
+      "balance": 153190.12
+    },
+    {
+      "date": "19-05-2025",
+      "time": "11:56:26",
+      "transactionId": "W55216737UPIAR/692701478763",
+      "type": "DR",
+      "details": "KASIMOLA/KKBK/6304278275-2@a",
+      "debit": 5000.00,
+      "credit": null,
+      "balance": 148190.12
+    },
+    {
+      "date": "19-05-2025",
+      "time": "19:49:45",
+      "transactionId": "W83738819UPIAR/101131433976",
+      "type": "DR",
+      "details": "Swiggy L/UTIB/swiggyupi@ax",
+      "debit": 735.00,
+      "credit": null,
+      "balance": 147455.12
+    },
+    {
+      "date": "19-05-2025",
+      "time": "20:44:34",
+      "transactionId": "W88134268UPIAR/302822845481",
+      "type": "DR",
+      "details": "SAPTHAGI/YESB/paytm.d0578279",
+      "debit": 670.00,
+      "credit": null,
+      "balance": 146785.12
+    },
+    {
+      "date": "21-05-2025",
+      "time": "20:08:35",
+      "transactionId": "Y2658099UPIAR/848794391699",
+      "type": "DR",
+      "details": "Cafe Cof/YESB/Q684093786@yb",
+      "debit": 480.00,
+      "credit": null,
+      "balance": 146305.12
+    },
+    {
+      "date": "23-05-2025",
+      "time": "00:30:01",
+      "transactionId": "Y70238256UPIAR/310706238571",
+      "type": "DR",
+      "details": "Swiggy L/UTIB/swiggyupi@ax",
+      "debit": 612.00,
+      "credit": null,
+      "balance": 145693.12
+    },
+    {
+      "date": "23-05-2025",
+      "time": "22:33:43",
+      "transactionId": "S29238320UPIAR/421084624148",
+      "type": "DR",
+      "details": "SWIGGY/ICIC/upiswiggy@icic",
+      "debit": 694.00,
+      "credit": null,
+      "balance": 144999.12
+    },
+    {
+      "date": "24-05-2025",
+      "time": "01:27:42",
+      "transactionId": "S31468744UPIAR/261798017674",
+      "type": "DR",
+      "details": "Suluvayi/APGB/7981567012@yb",
+      "debit": 2000.00,
+      "credit": null,
+      "balance": 142999.12
+    },
+    {
+      "date": "24-05-2025",
+      "time": "17:56:43",
+      "transactionId": "S64242393UPIAR/492139663406",
+      "type": "DR",
+      "details": "NASIR AL/CNRB/9837897947@ax",
+      "debit": 2100.00,
+      "credit": null,
+      "balance": 140899.12
+    },
+    {
+      "date": "24-05-2025",
+      "time": "18:16:35",
+      "transactionId": "S65538280UPIAR/769300690950",
+      "type": "DR",
+      "details": "Sri Ando/YESB/paytmqr2810050",
+      "debit": 2240.00,
+      "credit": null,
+      "balance": 138659.12
+    },
+    {
+      "date": "25-05-2025",
+      "time": "11:28:19",
+      "transactionId": "T2262864JNS-PMSBY-23-24-01218133113-421-54778427",
+      "type": "DR",
+      "details": "",
+      "debit": 20.00,
+      "credit": null,
+      "balance": 138639.12
+    },
+    {
+      "date": "25-05-2025",
+      "time": "15:16:52",
+      "transactionId": "T21650238UPIAR/699315867771",
+      "type": "DR",
+      "details": "Swiggy L/UTIB/swiggyupi@ax",
+      "debit": 787.00,
+      "credit": null,
+      "balance": 137852.12
+    },
+    {
+      "date": "25-05-2025",
+      "time": "16:04:44",
+      "transactionId": "T26107002UPIAB/903128951455",
+      "type": "CR",
+      "details": "Swiggy L/UTIB/swiggy.refunds",
+      "debit": null,
+      "credit": 57.00,
+      "balance": 137909.12
+    },
+    {
+      "date": "25-05-2025",
+      "time": "21:28:21",
+      "transactionId": "T53260573UPIAR/077277145972",
+      "type": "DR",
+      "details": "karthike/INDB/bajajpay.68797",
+      "debit": 170.00,
+      "credit": null,
+      "balance": 137739.12
+    },
+    {
+      "date": "26-05-2025",
+      "time": "20:22:40",
+      "transactionId": "U6223355UPIAR/188630662467",
+      "type": "DR",
+      "details": "Hyderaba/YESB/HYDMETROINAPP@",
+      "debit": 69.00,
+      "credit": null,
+      "balance": 137670.12
+    },
+    {
+      "date": "26-05-2025",
+      "time": "20:24:40",
+      "transaction_id": "U6366840UPIAR/825243086942",
+      "type": "debit",
+      "description": "Appala K/YESB/paytmqr67r4y9@",
+      "debit": 40.00,
+      "credit": 0,
+      "balance": 137630.12
+    },
+    {
+      "date": "26-05-2025",
+      "time": "21:39:24",
+      "transaction_id": "U11204860UPIAR/598443631988",
+      "type": "debit",
+      "description": "KATTA DU/YESB/BHARATPE 099092",
+      "debit": 169.00,
+      "credit": 0,
+      "balance": 137461.12
+    },
+    {
+      "date": "27-05-2025",
+      "time": "05:29:21",
+      "transaction_id": "U18513751UPIAR/446267945840",
+      "type": "debit",
+      "description": "Sapthagi/YESB/paytm-35518565",
+      "debit": 700.00,
+      "credit": 0,
+      "balance": 136761.12
+    },
+    {
+      "date": "27-05-2025",
+      "time": "09:02:43",
+      "transaction_id": "U24155214UPIAR/943295932354",
+      "type": "debit",
+      "description": "NENAVATH/IPOS/9640386351-3@a",
+      "debit": 175.00,
+      "credit": 0,
+      "balance": 136586.12
+    },
+    {
+      "date": "27-05-2025",
+      "time": "09:03:40",
+      "transaction_id": "U24193174UPIAR/679220510790",
+      "type": "debit",
+      "description": "Hyderaba/YESB/HYDMETROINAPP@",
+      "debit": 69.00,
+      "credit": 0,
+      "balance": 136517.12
+    },
+    {
+      "date": "27-05-2025",
+      "time": "17:38:39",
+      "transaction_id": "U50328274UPIAR/395852783921",
+      "type": "debit",
+      "description": "Hyderaba/YESB/HYDMETROINAPP@",
+      "debit": 69.00,
+      "credit": 0,
+      "balance": 136448.12
+    },
+    {
+      "date": "27-05-2025",
+      "time": "19:09:04",
+      "transaction_id": "U56724247UPIAR/535884777297",
+      "type": "debit",
+      "description": "BHARATH/IPOS/harshanayak011",
+      "debit": 172.00,
+      "credit": 0,
+      "balance": 136276.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "09:19:34",
+      "transaction_id": "U81656603UPIAR/205517574728",
+      "type": "debit",
+      "description": "ANAGONDH/BKID/AMZN0026766395",
+      "debit": 176.00,
+      "credit": 0,
+      "balance": 136100.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "09:20:48",
+      "transaction_id": "U81709285UPIAR/635776193011",
+      "type": "debit",
+      "description": "Hyderaba/YESB/HYDMETROINAPP@",
+      "debit": 69.00,
+      "credit": 0,
+      "balance": 136031.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "10:16:16",
+      "transaction_id": "U84413171UPIAR/307210723660",
+      "type": "debit",
+      "description": "Vijayala/UTIB/gpay-112141529",
+      "debit": 18.00,
+      "credit": 0,
+      "balance": 136013.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "17:41:23",
+      "transaction_id": "V7704660UPIAR/952658288961",
+      "type": "debit",
+      "description": "Mr MOHD/YESB/BHARATPE907281",
+      "debit": 19.00,
+      "credit": 0,
+      "balance": 135994.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "17:49:52",
+      "transaction_id": "V8227765UPIAR/067160411700",
+      "type": "debit",
+      "description": "Hyderaba/UTIB/HYDMETROINAPP@",
+      "debit": 69.00,
+      "credit": 0,
+      "balance": 135925.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "18:21:48",
+      "transaction_id": "V10360954UPIAR/764092107940",
+      "type": "debit",
+      "description": "MAKEMYTR/HDFC/makemytrip.upi",
+      "debit": 3395.00,
+      "credit": 0,
+      "balance": 132530.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "19:01:21",
+      "transaction_id": "V13298362UPIAR/679003873764",
+      "type": "debit",
+      "description": "MARVADI /UBIN/9908589147@ax",
+      "debit": 120.00,
+      "credit": 0,
+      "balance": 132410.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "19:21:09",
+      "transaction_id": "V14917173UPIAR/335114897206",
+      "type": "debit",
+      "description": "JYOTI BH/HDFC/770282079@yb",
+      "debit": 300.00,
+      "credit": 0,
+      "balance": 132110.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "19:57:06",
+      "transaction_id": "V17900549UPIAR/112145990793",
+      "type": "debit",
+      "description": "Jio Rech/YESB/JIOINAPP DIRECT",
+      "debit": 49.00,
+      "credit": 0,
+      "balance": 132061.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "20:12:38",
+      "transaction_id": "V19139858UPIAR/662759488757",
+      "type": "debit",
+      "description": "UKI FOOD/HDFC/Vyapar.1686857",
+      "debit": 2116.00,
+      "credit": 0,
+      "balance": 129945.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "22:46:45",
+      "transaction_id": "V27266312UPIAR/553248417430",
+      "type": "debit",
+      "description": "JYOTI BH/HDFC/770282079@ib",
+      "debit": 170.00,
+      "credit": 0,
+      "balance": 129775.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "22:55:58",
+      "transactionId": "V27470759UPIAR/133348335008",
+      "type": "debit",
+      "details": "PANKAJ K/KARB/pkumar25260-1@",
+      "amount": 574.00,
+      "balance": 129201.12
+    },
+    {
+      "date": "29-05-2025",
+      "time": "15:57:42",
+      "transactionId": "V59348294UPIAR/478205501909",
+      "type": "debit",
+      "details": "Mohammed/FINO/9177398578-4@y",
+      "amount": 108.00,
+      "balance": 129093.12
+    },
+    {
+      "date": "29-05-2025",
+      "time": "16:01:02",
+      "transactionId": "V59511108UPIAR/240439702216",
+      "type": "debit",
+      "details": "Cafe Cof/YESB/Q231811891@yb",
+      "amount": 701.00,
+      "balance": 128392.12
+    },
+    {
+      "date": "29-05-2025",
+      "time": "17:03:51",
+      "transactionId": "V62680552UPIAR/013023854079",
+      "type": "debit",
+      "details": "Mr JAHAN/YESB/paytmqr5bw65o@",
+      "amount": 19.00,
+      "balance": 128373.12
+    },
+    {
+      "date": "29-05-2025",
+      "time": "17:42:31",
+      "transactionId": "V64945176UPIAR/782431141231",
+      "type": "debit",
+      "details": "DHANAVAT/UBIN/swamidharavath",
+      "amount": 146.00,
+      "balance": 128227.12
+    },
+    {
+      "date": "29-05-2025",
+      "time": "18:51:48",
+      "transactionId": "V69813921UPIAR/217179450784",
+      "type": "debit",
+      "details": "ERUKULLA/YESB/ Q292905510@yb",
+      "amount": 37.00,
+      "balance": 128190.12
+    },
+    {
+      "date": "29-05-2025",
+      "time": "19:26:41",
+      "transactionId": "V72839966UPIAR/911426401409",
+      "type": "debit",
+      "details": "Sri Suja/YESB/paytmqr5erc9a@",
+      "amount": 700.00,
+      "balance": 127490.12
+    },
+    {
+      "date": "29-05-2025",
+      "time": "20:05:07",
+      "transactionId": "V76021303UPIAR/514981169398",
+      "type": "debit",
+      "details": "NISHA SA/BARB/nisha.tated21@",
+      "amount": 12000.00,
+      "balance": 115490.12
+    },
+    {
+      "date": "29-05-2025",
+      "time": "20:09:31",
+      "transactionId": "V76364721UPIAR/514956473796",
+      "type": "debit",
+      "details": "NISHA SA/BARB/nisha.tated21@",
+      "amount": 810.00,
+      "balance": 114680.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "00:18:30",
+      "transactionId": "V85785384UPIAR/006906957273",
+      "type": "debit",
+      "details": "SHAIK SH/YESB/Q849675155@yb",
+      "amount": 40.00,
+      "balance": 114640.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "00:23:56",
+      "transactionId": "V85817906UPIAB/223494144835",
+      "type": "credit",
+      "details": "GOVINDAM/SBIN/ 8332828602@ib",
+      "amount": 12810.00,
+      "balance": 127450.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "00:24:17",
+      "transactionId": "V85809899UPIAR/768798047557",
+      "type": "debit",
+      "details": "Mr MOMSA/YESB/Q106045186@yb",
+      "amount": 100.00,
+      "balance": 127350.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "00:41:00",
+      "transactionId": "V85930527UPIAR/325666638703",
+      "type": "debit",
+      "details": "PADISHAL/UTIB/sandeep.padish",
+      "amount": 1500.00,
+      "balance": 125850.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "01:11:45",
+      "transactionId": "V86060818UPIAR/913383787142",
+      "type": "debit",
+      "details": "DANTURI/SBIN/prasad.danturi",
+      "amount": 700.00,
+      "balance": 125150.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "03:23:30",
+      "transactionId": "V86478928UPIAR/118074404337",
+      "type": "debit",
+      "details": "Pamparab/IDFB/6303532020-2@y",
+      "amount": 1300.00,
+      "balance": 123850.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "16:06:32",
+      "transactionId": "W17457957UPIAR/220482783804",
+      "type": "debit",
+      "details": "CHACHA M/YESB/paytmqr62njec@",
+      "amount": 1240.00,
+      "balance": 122610.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "16:47:53",
+      "transactionId": "W19568573UPIAR/006051778499",
+      "type": "debit",
+      "details": "PhonePe/YESB/BBPSBP@yb",
+      "amount": 500.00,
+      "balance": 122110.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "17:25:14",
+      "transactionId": "W21692428UPIAR/859344630178",
+      "type": "debit",
+      "details": "RAMESH/FDRL/BHARATPE.90064",
+      "amount": 20.00,
+      "balance": 122090.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "21:27:25",
+      "transactionId": "W40085972UPIAR/335835021273",
+      "type": "debit",
+      "name": "KACHHAVA/UNBA/BHARATPE.9O0N0",
+      "amount": 1000.00,
+      "balance": 121090.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "21:55:37",
+      "transactionId": "W41448383UPIAR/613287410990",
+      "type": "debit",
+      "name": "SALMAN/KKBK/6301519338-3@i",
+      "amount": 332.00,
+      "balance": 120758.12
+    },
+    {
+      "date": "31-05-2025",
+      "time": "13:37:57",
+      "transactionId": "W66729614UPIAR/189681815515",
+      "type": "debit",
+      "name": "Mr Surrv/YESB/Q535900961@yb",
+      "amount": 600.00,
+      "balance": 120158.12
+    },
+    {
+      "date": "31-05-2025",
+      "time": "13:47:46",
+      "transactionId": "W67298987UPIAR/006574293321",
+      "type": "debit",
+      "name": "Ms Pinja/YESB/Q658011761@yb",
+      "amount": 60.00,
+      "balance": 120098.12
+    },
+    {
+      "date": "31-05-2025",
+      "time": "14:11:39",
+      "transactionId": "W68565765UPIAR/271771940964",
+      "type": "debit",
+      "name": "SRI KAMO/YESB/Q046076777@yb",
+      "amount": 60.00,
+      "balance": 120038.12
+    },
+    {
+      "date": "31-05-2025",
+      "time": "15:16:17",
+      "transactionId": "W71751718UPIAR/587885267260",
+      "type": "debit",
+      "name": "KACHHAVA/YESB/paytmqr5wy89x@",
+      "amount": 1190.00,
+      "balance": 118848.12
+    },
+    {
+      "date": "31-05-2025",
+      "time": "19:40:43",
+      "transactionId": "W88943451UPIAR/495827251685",
+      "type": "debit",
+      "name": "SWIGGY/ICIC/upiswiggy@icic",
+      "amount": 1755.00,
+      "balance": 117093.12
+    },
+    {
+      "date": "31-05-2025",
+      "time": "19:55:42",
+      "transactionId": "W90271632UPIAR/526815492260",
+      "type": "debit",
+      "name": "Swiggy/ICIC/swiggystores@i",
+      "amount": 147.00,
+      "balance": 116946.12
+    },
+    {
+      "date": "01-06-2025",
+      "time": "17:54:31",
+      "transactionId": "X38223514UPIAR/631194717486",
+      "type": "debit",
+      "name": "Swiggy L/UTIB/swiggy.stores@",
+      "amount": 762.00,
+      "balance": 116184.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "08:47:36",
+      "transactionId": "X71066525UPIAR/124494142535",
+      "type": "debit",
+      "name": "Mr Jaga/YESB/Q733797094@yb",
+      "amount": 149.00,
+      "balance": 116035.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "08:48:26",
+      "transactionId": "X71125720UPIAR/143945659380",
+      "type": "debit",
+      "name": "Hyderaba/YESB/HYDMETROINAPP@",
+      "amount": 69.00,
+      "balance": 115966.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "11:37:58",
+      "transactionId": "X81389826UPIAR/000197000932",
+      "type": "debit",
+      "name": "PALLELA /UTIB/9866888811@yb",
+      "amount": 25000.00,
+      "balance": 90966.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "17:04:58",
+      "transactionId": "X99929407UPIAR/192542104576",
+      "type": "debit",
+      "name": "Hyderaba/UTIB/HYDMETROINAPP@",
+      "amount": 69.00,
+      "balance": 90897.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "18:02:24",
+      "transactionId": "Y3735587UPIAR/733036498228",
+      "type": "debit",
+      "name": "RN GREEN/UTIB/MAB.0373470053",
+      "amount": 440.00,
+      "balance": 90457.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "18:30:26",
+      "transactionId": "Y5847047UPIAR/581112965585",
+      "type": "debit",
+      "name": "JATAVATH/UBIN/chantijatavath",
+      "amount": 185.00,
+      "balance": 90272.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "22:06:14",
+      "transactionId": "Y23126075UPIAR/042105056458",
+      "type": "debit",
+      "name": "Revvsel/AIRP/revv819557.rzp",
+      "amount": 5000.00,
+      "balance": 85272.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "22:23:40",
+      "transactionId": "Y23776414UPIAR/697505227460",
+      "type": "debit",
+      "name": "MakeMyTr/UTIB/makemytrip.rzp",
+      "amount": 21482.00,
+      "balance": 63790.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "22:24:26",
+      "transactionId": "Y23799100UPIAB/048813513635",
+      "type": "credit",
+      "name": "M SHEESA/UBIN/sheesareji@yb",
+      "amount": 22000.00,
+      "balance": 85790.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "22:29:38",
+      "transactionId": "Y23977455UPIAB/676671009648",
+      "type": "credit",
+      "name": "M SHEESA",
+      "bank": "UBIN",
+      "email": "sheesareji@ib",
+      "amount": 20000.00,
+      "balance": 105790.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "22:30:02",
+      "transactionId": "Y23986179UPIAR/397077610863",
+      "type": "debit",
+      "name": "MakeMyTr",
+      "bank": "UTIB",
+      "email": "makemytrip.rzp",
+      "amount": 21526.00,
+      "balance": 84264.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "22:30:08",
+      "transactionId": "Y23998164UPIAB/769988897607",
+      "type": "credit",
+      "name": "M SHEESA",
+      "bank": "UBIN",
+      "email": "sheesareji@yb",
+      "amount": 2000.00,
+      "balance": 86264.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "22:45:17",
+      "transactionId": "Y24460447UPIAR/179075306688",
+      "type": "debit",
+      "name": "MAKEMYTR",
+      "bank": "HDFC",
+      "email": "makemytrip.hot",
+      "amount": 12931.00,
+      "balance": 73333.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "23:09:21",
+      "transactionId": "Y25051852UPIAR/551914845508",
+      "type": "debit",
+      "name": "MAKEMYTR",
+      "bank": "HDFC",
+      "email": "makemytrip.hot",
+      "amount": 7291.00,
+      "balance": 66042.12
+    },
+    {
+      "date": "03-06-2025",
+      "time": "08:53:06",
+      "transactionId": "Y35998554UPIAR/931968056662",
+      "type": "debit",
+      "name": "THANDRA",
+      "bank": "SBIN",
+      "email": "8106558272@ib",
+      "amount": 149.00,
+      "balance": 65893.12
+    },
+    {
+      "date": "03-06-2025",
+      "time": "08:53:56",
+      "transactionId": "Y36043165UPIAR/435770642986",
+      "type": "debit",
+      "name": "Hyderaba",
+      "bank": "YESB",
+      "email": "HYDMETROINAPP@",
+      "amount": 69.00,
+      "balance": 65824.12
+    },
+    {
+      "date": "03-06-2025",
+      "time": "17:26:20",
+      "transactionId": "Y65068894UPIAR/556507032286",
+      "type": "debit",
+      "name": "Hyderaba",
+      "bank": "UTIB",
+      "email": "HYDMETROINAPP@",
+      "amount": 69.00,
+      "balance": 65755.12
+    },
+    {
+      "date": "03-06-2025",
+      "time": "18:46:35",
+      "transactionId": "Y71066340UPIAR/997603591378",
+      "type": "debit",
+      "name": "VADTHYA",
+      "bank": "IPOS",
+      "email": "vadthyashivash",
+      "amount": 170.00,
+      "balance": 65585.12
+    },
+    {
+      "date": "03-06-2025",
+      "time": "22:06:33",
+      "transactionId": "Y86568554UPIAR/250354559999",
+      "type": "debit",
+      "name": "SRI THIR",
+      "bank": "YESB",
+      "email": "Q949463879@yb",
+      "amount": 730.00,
+      "balance": 64855.12
+    },
+    {
+      "date": "04-06-2025",
+      "time": "19:03:08",
+      "transactionId": "S34844594UPIAR/927907055574",
+      "type": "debit",
+      "name": "Cafe Cof",
+      "bank": "YESB",
+      "email": "Q684093786@yb",
+      "amount": 690.00,
+      "balance": 64165.12
+    },
+    {
+      "date": "04-06-2025",
+      "time": "23:19:49",
+      "transactionId": "S51376195UPIAR/088586621821",
+      "type": "debit",
+      "name": "Swiggy L",
+      "bank": "UTIB",
+      "email": "swiggyupi@ax",
+      "amount": 398.00,
+      "balance": 63767.12
+    },
+    {
+      "date": "05-06-2025",
+      "time": "11:39:22",
+      "transactionId": "S71369800UPIAR/022416377239",
+      "type": "debit",
+      "name": "Airtel R",
+      "bank": "UTIB",
+      "email": "AIRTELPREDIREC",
+      "amount": 49.00,
+      "balance": 63718.12
+    },
+    {
+      "date": "05-06-2025",
+      "time": "13:10:06",
+      "transactionId": "S76795663",
+      "type": "credit",
+      "name": "MONDEE TECH PRIVATE LIMITED",
+      "description": "CMS1562511972383 Sender No:CMS1562511972383",
+      "amount": 145202.00,
+      "balance": 208920.12
+    },
+    {
+      "date": "05-06-2025",
+      "time": "17:19:00",
+      "transactionId": "S89696133NACH/10/9251519999",
+      "type": "debit",
+      "name": "PRP598188/Y",
+      "amount": 11674.00,
+      "balance": 197246.12
+    },
+    {
+      "date": "05-06-2025",
+      "time": "17:28:08",
+      "transactionId": "S90753941UPIAR/439662440422",
+      "type": "debit",
+      "name": "VALLABOT",
+      "bank": "YESB",
+      "email": "Q861325474@yb",
+      "amount": 40.00,
+      "balance": 197206.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "11:26:49",
+      "transactionId": "T33580515UPIAR/752713798826",
+      "type": "debit",
+      "name": "Katravat",
+      "bank": "SBIN",
+      "email": "katravathgopal",
+      "amount": 183.00,
+      "balance": 197023.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "11:28:18",
+      "transactionId": "T33668691UPIAR/470691931796",
+      "type": "debit",
+      "name": "Hyderaba",
+      "bank": "YESB",
+      "email": "HYDMETROINAPP@",
+      "amount": 69.00,
+      "balance": 196954.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "16:20:05",
+      "transactionId": "T49630677UPIAR/107611755042",
+      "type": "debit",
+      "name": "Mr GEDDA",
+      "bank": "YESB",
+      "email": "paytmqr2810050",
+      "amount": 19.00,
+      "balance": 196935.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "17:39:23",
+      "transactionId": "T54534619UPIAR/952960559018",
+      "type": "debit",
+      "description": "Hyderaba/UTIB/H YDMETROINAPP@",
+      "amount": 69.00,
+      "balance": 196866.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "19:06:20",
+      "transactionId": "T61455931UPIAR/552351595514",
+      "type": "debit",
+      "description": "Shobha P/UTIB/gpay-112540753",
+      "amount": 184.00,
+      "balance": 196682.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "21:21:49",
+      "transactionId": "T73516086UPIAR/515789409974",
+      "type": "debit",
+      "description": "PADMARAG/YES B/ q088028788@yb",
+      "amount": 900.00,
+      "balance": 195782.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "21:40:18",
+      "transactionId": "T74774015UPIAR/515797008976",
+      "type": "debit",
+      "description": "MANJULA /YESB/9000146047-2@y",
+      "amount": 1500.00,
+      "balance": 194282.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "21:40:37",
+      "transactionId": "T74793965UPIAR/515733110397",
+      "type": "debit",
+      "description": "Srinivas/YESB/paytm-78085310",
+      "amount": 50.00,
+      "balance": 194232.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "22:46:06",
+      "transactionId": "T77875168UPIAR/552371697891",
+      "type": "debit",
+      "description": "Mahi Nag/AIRP/9861130398@ib",
+      "amount": 500.00,
+      "balance": 193732.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "23:03:16",
+      "transactionId": "T78370916UPIAR/515786017907",
+      "type": "debit",
+      "description": "Mahi Nag/AIRP/9861130398@ib",
+      "amount": 500.00,
+      "balance": 193232.12
+    },
+    {
+      "date": "07-06-2025",
+      "time": "01:20:01",
+      "transactionId": "T80100823UPIAR/515863409689",
+      "type": "debit",
+      "description": "Swiggy L/UTIB/swiggy1online.",
+      "amount": 687.00,
+      "balance": 192545.12
+    },
+    {
+      "date": "07-06-2025",
+      "time": "22:05:55",
+      "transactionId": "U31843601UPIAR/515845481247",
+      "type": "debit",
+      "description": "BPCL COC/YESB/paytmqrw39ytiu",
+      "amount": 550.00,
+      "balance": 191995.12
+    },
+    {
+      "date": "07-06-2025",
+      "time": "22:27:45",
+      "transactionId": "U32603297UPIAR/515894769229",
+      "type": "debit",
+      "description": "SRI KART/YESB/paytmqr617cpj@",
+      "amount": 20.00,
+      "balance": 191975.12
+    }
+  ]
+}
