@@ -1,0 +1,1192 @@
+{
+  "transactions": [
+    {
+      "date": "07-05-2025",
+      "time": "07:55:41",
+      "transaction_id": "W39118546",
+      "transferred": "NEFT:MONDEETECH PRIVATE LIMITED",
+      "withdrawals": 0.00,
+      "deposits": 145200.0,
+      "balance": 190016.43
+    },
+    {
+      "date": "07-05-2025",
+      "time": "09:02:28",
+      "transaction_id": "W42545626",
+      "transferred": "UPIAR/462495389149/DR/SRINIVAS/SBIN/skadaari2@ib",
+      "withdrawals": 186.00,
+      "deposits": 0.0,
+      "balance": 189830.43
+    },
+    {
+      "date": "07-05-2025",
+      "time": "09:03:29",
+      "transaction_id": "W42581273",
+      "transferred": "UPIAR/103491330761/DR/Hyderaba/YESB/HYDMETROINAPP@",
+      "withdrawals": 55.00,
+      "deposits": 0.0,
+      "balance": 189775.43
+    },
+    {
+      "date": "07-05-2025",
+      "time": "16:46:05",
+      "transaction_id": "W67680012",
+      "transferred": "UPIAR/325354987919/DR/JEENURE/ICIC/wildbuddynro@a",
+      "withdrawals": 10000.00,
+      "deposits": 0.0,
+      "balance": 179775.43
+    },
+    {
+      "date": "07-05-2025",
+      "time": "21:12:22",
+      "transaction_id": "W88543338",
+      "transferred": "UPIAR/837760016510/DR/RENAULT/ICIC/PPSMOTORSPVTLT",
+      "withdrawals": 13091.00,
+      "deposits": 0.0,
+      "balance": 166684.43
+    },
+    {
+      "date": "07-05-2025",
+      "time": "21:18:43",
+      "transaction_id": "W88955539",
+      "transferred": "UPIAR/907647155488/DR/MYLAGANI/INDB/9398289379-3@a",
+      "withdrawals": 500.00,
+      "deposits": 0.0,
+      "balance": 166184.43
+    },
+    {
+      "date": "09-05-2025",
+      "time": "17:41:55",
+      "transaction_id": "X93594564",
+      "transferred": "UPIAR/026260247912/DR/District/ICIC/districtdining",
+      "withdrawals": 359.75,
+      "deposits": 0.0,
+      "balance": 165824.68
+    },
+    {
+      "date": "09-05-2025",
+      "time": "22:37:37",
+      "transaction_id": "Y14735852",
+      "transferred": "UPIAR/665240067139/DR/LEOMERI/YESB/paytmqr2810050",
+      "withdrawals": 5049.00,
+      "deposits": 0.0,
+      "balance": 160775.68
+    },
+    {
+      "date": "09-05-2025",
+      "time": "22:37:53",
+      "transaction_id": "Y14732569",
+      "transferred": "UPIAB/825501708130/CR/M SHEESA/UBIN/sheesareji@ib",
+      "withdrawals": 0.0,
+      "deposits": 5000.00,
+      "balance": 165775.68
+    },
+    {
+      "date": "10-05-2025",
+      "time": "18:49:34",
+      "transaction_id": "Y55939762",
+      "transferred": "UPIAR/676545630011/DR/DANTURI/ICIC/prasad.danturi",
+      "withdrawals": 700.00,
+      "deposits": 0.0,
+      "balance": 165075.68
+    },
+    {
+      "date": "10-05-2025",
+      "time": "19:31:46",
+      "transaction_id": "Y59568868",
+      "transferred": "UPIAR/079550056003/DR/Mr AKHIL/YESB/Q313677675@yb",
+      "withdrawals": 15.00,
+      "deposits": 0.0,
+      "balance": 165060.68
+    },
+    {
+      "date": "12-05-2025",
+      "time": "14:37:47",
+      "transaction_id": "S55553682",
+      "transferred": "UPIAR/016372377212/DR/Make My/YESB/MAKEMYTRIP1ONL",
+      "withdrawals": 5151.00,
+      "deposits": 0.0,
+      "balance": 159909.68
+    },
+    {
+      "date": "12-05-2025",
+      "time": "17:24:49",
+      "transaction_id": "S63743722",
+      "transferred": "UPIAR/801806933096/DR/B the li/YESB/Q958416885@yb",
+      "withdrawals": 1520.00,
+      "deposits": 0.0,
+      "balance": 158289.68
+    },
+    {
+      "date": "12-05-2025",
+      "time": "20:19:08",
+      "transaction_id": "S73681505",
+      "transferred": "UPIAR/513239715447/DR/SwiggyL/UTIB/swiggy1online.",
+      "withdrawals": 852.00,
+      "deposits": 0.0,
+      "balance": 157437.68
+    },
+    {
+      "date": "13-05-2025",
+      "time": "11:38:21",
+      "transaction_id": "T2117616",
+      "transferred": "UPIAR/925663387304/DR/JYOTI BH/HDFC/770282079@ax",
+      "withdrawals": 1300.00,
+      "deposits": 0.0,
+      "balance": 156137.68
+    },
+    {
+      "date": "13-05-2025",
+      "time": "12:34:33",
+      "transaction_id": "T5432366",
+      "transferred": "UPIAR/689212270240/DR/JYOTI BH/HDFC/770282079@ax",
+      "withdrawals": 290.00,
+      "deposits": 0.0,
+      "balance": 155847.68
+    },
+    {
+      "date": "14-05-2025",
+      "time": "09:58:14",
+      "transaction_id": "T56732181",
+      "transferred": "MOBCC/4373782190417000/513409316332/Credit Card Pa",
+      "withdrawals": 5610.56,
+      "deposits": 0.0,
+      "balance": 150237.12
+    },
+    {
+      "date": "14-05-2025",
+      "time": "10:30:00",
+      "transaction_id": "T58471872",
+      "transferred": "POS:TGSPDCL/Mumbai/513410589669",
+      "withdrawals": 2799.00,
+      "deposits": 0.0,
+      "balance": 147438.12
+    },
+    {
+      "date": "14-05-2025",
+      "time": "10:31:37",
+      "transaction_id": "T58554519",
+      "transferred": "POS:TGSPDCL/Mumbai/513410589871",
+      "withdrawals": 221.00,
+      "deposits": 0.0,
+      "balance": 147217.12
+    },
+    {
+      "date": "14-05-2025",
+      "time": "10:33:06",
+      "transaction_id": "T58628297",
+      "transferred": "POS:TGSPDCL/Mumbai/513410590024",
+      "withdrawals": 1461.00,
+      "deposits": 0.0,
+      "balance": 145756.12
+    },
+    {
+      "date": "14-05-2025",
+      "time": "10:34:15",
+      "transaction_id": "T58708880",
+      "transferred": "POS:TGSPDCL/Mumbai/513410590188",
+      "withdrawals": 177.00,
+      "deposits": 0.0,
+      "balance": 145579.12
+    },
+    {
+      "date": "14-05-2025",
+      "time": "10:37:30",
+      "transaction_id": "T58910259",
+      "transferred": "POS:HMWSSBNE/Mumbai/513410590560",
+      "withdrawals": 300.00,
+      "deposits": 0.0,
+      "balance": 145279.12
+    },
+    {
+      "date": "14-05-2025",
+      "time": "12:39:00",
+      "transaction_id": "T65980086",
+      "transferred": "UPIAR/250320260584/DR/SyedFay/SBIN/9959278825-4@i",
+      "withdrawals": 2400.00,
+      "deposits": 0.0,
+      "balance": 142879.12
+    },
+    {
+      "date": "14-05-2025",
+      "time": "13:30:23",
+      "transaction_id": "T68954164",
+      "transferred": "UPIAR/550083226638/DR/SwiggyL/UTIB/swiggy1online.",
+      "withdrawals": 680.00,
+      "deposits": 0.0,
+      "balance": 142199.12
+    },
+    {
+      "date": "14-05-2025",
+      "time": "16:10:04",
+      "transaction_id": "T76743433",
+      "transferred": "NEFT:EMPLOYEE PROVIDENT FUND ORGANIZATION SBIN12513",
+      "withdrawals": 0.0,
+      "deposits": 65670.00,
+      "balance": 207899.12
+    },
+    {
+      "date": "14-05-2025",
+      "time": "20:41:21",
+      "transaction_id": "T96578578",
+      "transferred": "UPIAR/550017446169/DR/SWIGGYL/UTIB/swiggyinstamar",
+      "withdrawals": 1260.00,
+      "deposits": 0.0,
+      "balance": 206639.12
+    },
+    {
+      "date": "15-05-2025",
+      "time": "07:32:49",
+      "transaction_id": "U9845148",
+      "transferred": "UPIAR/513557962811/DR/ICCL/YESB/ICCLMF@yb",
+      "withdrawals": 10000.00,
+      "deposits": 0.0,
+      "balance": 196639.12
+    },
+    {
+      "date": "15-05-2025",
+      "time": "21:00:38",
+      "transaction_id": "U58306881",
+      "transferred": "UPIAR/295783287551/DR/DANTURI/ICIC/prasad.danturi",
+      "withdrawals": 2000.00,
+      "deposits": 0.0,
+      "balance": 194639.12
+    },
+    {
+      "date": "15-05-2025",
+      "time": "22:11:19",
+      "transaction_id": "U62300493",
+      "transferred": "UPIAB/244811121932/CR/DANTURI/SBIN/9912053313@ax",
+      "withdrawals": 0.0,
+      "deposits": 2000.00,
+      "balance": 196639.12
+    },
+    {
+      "date": "16-05-2025",
+      "time": "06:54:53",
+      "transaction_id": "U70684199",
+      "transferred": "UPIAR/177065313746/DR/JEENURE/ICIC/wildbuddynro@a",
+      "withdrawals": 10000.00,
+      "deposits": 0.0,
+      "balance": 186639.12
+    },
+    {
+      "date": "17-05-2025",
+      "time": "12:30:06",
+      "transaction_id": "V44919224",
+      "transferred": "UPIAR/231461846064/DR/Patlavat/SBIN/9704849620@ax",
+      "withdrawals": 1150.00,
+      "deposits": 0.0,
+      "balance": 185489.12
+    },
+    {
+      "date": "17-05-2025",
+      "time": "15:02:40",
+      "transaction_id": "V53063989",
+      "transferred": "UPIAR/481163079011/DR/Sapthagi/YESB/paytm-35518565",
+      "withdrawals": 700.00,
+      "deposits": 0.0,
+      "balance": 184789.12
+    },
+    {
+      "date": "17-05-2025",
+      "time": "15:39:14",
+      "transaction_id": "V54744606",
+      "transferred": "UPIAR/378870064685/DR/Cafe Cof/YESB/Q684093786@yb",
+      "withdrawals": 700.00,
+      "deposits": 0.0,
+      "balance": 184089.12
+    },
+    {
+      "date": "17-05-2025",
+      "time": "17:34:59",
+      "transaction_id": "V60914820",
+      "transferred": "UPIAR/320793414237/DR/Cafe Cof/YESB/Q684093786@yb",
+      "withdrawals": 750.00,
+      "deposits": 0.0,
+      "balance": 183339.12
+    },
+    {
+      "date": "17-05-2025",
+      "time": "19:20:21",
+      "transaction_id": "V68836440",
+      "transferred": "UPIAR/550367120841/DR/SWIGGYL/UTIB/swiggyinstamar",
+      "withdrawals": 149.00,
+      "deposits": 0.0,
+      "balance": 183190.12
+    },
+    {
+      "date": "18-05-2025",
+      "time": "12:27:53",
+      "transaction_id": "W894300",
+      "transferred": "UPIAR/260123817604/DR/BankAcc/SIBL/06940730000001",
+      "withdrawals": 30000.00,
+      "deposits": 0.0,
+      "balance": 153190.12
+    },
+    {
+      "date": "19-05-2025",
+      "time": "11:56:26",
+      "transaction_id": "W55216737",
+      "transferred": "UPIAR/692701478763/DR/KASIMOLA/KKBK/6304278275-2@a",
+      "withdrawals": 5000.00,
+      "deposits": 0.0,
+      "balance": 148190.12
+    },
+    {
+      "date": "19-05-2025",
+      "time": "19:49:45",
+      "transaction_id": "W83738819",
+      "transferred": "UPIAR/101131433976/DR/Swiggy L/UTIB/swiggyupi@ax",
+      "withdrawals": 735.00,
+      "deposits": 0.0,
+      "balance": 147455.12
+    },
+    {
+      "date": "19-05-2025",
+      "time": "20:44:34",
+      "transaction_id": "W88134268",
+      "transferred": "UPIAR/302822845481/DR/SAPTHAGI/YESB/paytm.d0578279",
+      "withdrawals": 670.00,
+      "deposits": 0.0,
+      "balance": 146785.12
+    },
+    {
+      "date": "21-05-2025",
+      "time": "20:08:35",
+      "transaction_id": "Y2658099",
+      "transferred": "UPIAR/848794391699/DR/Cafe Cof/YESB/Q684093786@yb",
+      "withdrawals": 480.00,
+      "deposits": 0.0,
+      "balance": 146305.12
+    },
+    {
+      "date": "23-05-2025",
+      "time": "00:30:01",
+      "transaction_id": "Y70238256",
+      "transferred": "UPIAR/310706238571/DR/Swiggy L/UTIB/swiggyupi@ax",
+      "withdrawals": 612.00,
+      "deposits": 0.0,
+      "balance": 145693.12
+    },
+    {
+      "date": "23-05-2025",
+      "time": "22:33:43",
+      "transaction_id": "S29238320",
+      "transferred": "UPIAR/421084624148/DR/SWIGGY/ICIC/upiswiggy@icic",
+      "withdrawals": 694.00,
+      "deposits": 0.0,
+      "balance": 144999.12
+    },
+    {
+      "date": "24-05-2025",
+      "time": "01:27:42",
+      "transaction_id": "S31468744",
+      "transferred": "UPIAR/261798017674/DR/Suluvayi/APGB/7981567012@yb",
+      "withdrawals": 2000.00,
+      "deposits": 0.0,
+      "balance": 142999.12
+    },
+    {
+      "date": "24-05-2025",
+      "time": "17:56:43",
+      "transaction_id": "S64242393",
+      "transferred": "UPIAR/492139663406/DR/NASIR AL/CNRB/9837897947@ax",
+      "withdrawals": 2100.00,
+      "deposits": 0.0,
+      "balance": 140899.12
+    },
+    {
+      "date": "24-05-2025",
+      "time": "18:16:35",
+      "transaction_id": "S65538280",
+      "transferred": "UPIAR/769300690950/DR/SriAndo/YESB/paytmqr2810050",
+      "withdrawals": 2240.00,
+      "deposits": 0.0,
+      "balance": 138659.12
+    },
+    {
+      "date": "25-05-2025",
+      "time": "11:28:19",
+      "transaction_id": "T2262864",
+      "transferred": "JNS-PMSBY-23-24-01218133113-421-54778427",
+      "withdrawals": 20.00,
+      "deposits": 0.0,
+      "balance": 138639.12
+    },
+    {
+      "date": "25-05-2025",
+      "time": "15:16:52",
+      "transaction_id": "T21650238",
+      "transferred": "UPIAR/699315867771/DR/Swiggy L/UTIB/swiggyupi@ax",
+      "withdrawals": 787.00,
+      "deposits": 0.0,
+      "balance": 137852.12
+    },
+    {
+      "date": "25-05-2025",
+      "time": "16:04:44",
+      "transaction_id": "T26107002",
+      "transferred": "UPIAB/903128951455/CR/SwiggyL/UTIB/swiggy.refunds",
+      "withdrawals": 0.0,
+      "deposits": 57.00,
+      "balance": 137909.12
+    },
+    {
+      "date": "25-05-2025",
+      "time": "21:28:21",
+      "transaction_id": "T53260573",
+      "transferred": "UPIAR/077277145972/DR/karthike/INDB/bajajpay.68797",
+      "withdrawals": 170.00,
+      "deposits": 0.0,
+      "balance": 137739.12
+    },
+    {
+      "date": "26-05-2025",
+      "time": "20:22:40",
+      "transaction_id": "U6223355",
+      "transferred": "UPIAR/188630662467/DR/Hyderaba/YESB/HYDMETROINAPP@",
+      "withdrawals": 69.00,
+      "deposits": 0.0,
+      "balance": 137670.12
+    },
+    {
+      "date": "26-05-2025",
+      "time": "21:39:24",
+      "transaction_id": "U11204860",
+      "transferred": "UPIAR/598443631988/DR/KATTADU/YESB/BHARATPE099092",
+      "withdrawals": 169.00,
+      "deposits": 0.0,
+      "balance": 137461.12
+    },
+    {
+      "date": "27-05-2025",
+      "time": "05:29:21",
+      "transaction_id": "U18513751",
+      "transferred": "UPIAR/446267945840/DR/Sapthagi/YESB/paytm-35518565",
+      "withdrawals": 700.00,
+      "deposits": 0.0,
+      "balance": 136761.12
+    },
+    {
+      "date": "27-05-2025",
+      "time": "09:02:43",
+      "transaction_id": "U24155214",
+      "transferred": "UPIAR/943295932354/DR/NENAVATH/IPOS/9640386351-3@a",
+      "withdrawals": 175.00,
+      "deposits": 0.0,
+      "balance": 136586.12
+    },
+    {
+      "date": "27-05-2025",
+      "time": "09:03:40",
+      "transaction_id": "U24193174",
+      "transferred": "UPIAR/679220510790/DR/Hyderaba/YESB/HYDMETROINAPP@",
+      "withdrawals": 69.00,
+      "deposits": 0.0,
+      "balance": 136517.12
+    },
+    {
+      "date": "27-05-2025",
+      "time": "17:38:39",
+      "transaction_id": "U50328274",
+      "transferred": "UPIAR/395852783921/DR/Hyderaba/YESB/HYDMETROINAPP@",
+      "withdrawals": 69.00,
+      "deposits": 0.0,
+      "balance": 136448.12
+    },
+    {
+      "date": "27-05-2025",
+      "time": "19:09:04",
+      "transaction_id": "U56724247",
+      "transferred": "UPIAR/535884777297/DR/BHARATH/IPOS/harshanayak011",
+      "withdrawals": 172.00,
+      "deposits": 0.0,
+      "balance": 136276.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "09:19:34",
+      "transaction_id": "U81656603",
+      "transferred": "UPIAR/205517574728/DR/ANAGONDH/BKID/AMZN0026766395",
+      "withdrawals": 176.00,
+      "deposits": 0.0,
+      "balance": 136100.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "09:20:48",
+      "transaction_id": "U81709285",
+      "transferred": "UPIAR/635776193011/DR/Hyderaba/YESB/HYDMETROINAPP@",
+      "withdrawals": 69.00,
+      "deposits": 0.0,
+      "balance": 136031.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "10:16:16",
+      "transaction_id": "U84413171",
+      "transferred": "UPIAR/307210723660/DR/Vijayala/UTIB/gpay-112141529",
+      "withdrawals": 18.00,
+      "deposits": 0.0,
+      "balance": 136013.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "17:41:23",
+      "transaction_id": "V7704660",
+      "transferred": "UPIAR/952658288961/DR/MrMOHD/YESB/BHARATPE907281",
+      "withdrawals": 19.00,
+      "deposits": 0.0,
+      "balance": 135994.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "17:49:52",
+      "transaction_id": "V8227765",
+      "transferred": "UPIAR/067160411700/DR/Hyderaba/UTIB/HYDMETROINAPP@",
+      "withdrawals": 69.00,
+      "deposits": 0.0,
+      "balance": 135925.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "18:21:48",
+      "transaction_id": "V10360954",
+      "transferred": "UPIAR/764092107940/DR/MAKEMYTR/HDFC/makemytrip.upi",
+      "withdrawals": 3395.00,
+      "deposits": 0.0,
+      "balance": 132530.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "19:01:21",
+      "transaction_id": "V13298362",
+      "transferred": "UPIAR/679003873764/DR/MARVADI/UBIN/9908589147@ax",
+      "withdrawals": 120.00,
+      "deposits": 0.0,
+      "balance": 132410.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "19:21:09",
+      "transaction_id": "V14917173",
+      "transferred": "UPIAR/335114897206/DR/JYOTI BH/HDFC/770282079@yb",
+      "withdrawals": 300.00,
+      "deposits": 0.0,
+      "balance": 132110.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "19:57:06",
+      "transaction_id": "V17900549",
+      "transferred": "UPIAR/112145990793/DR/JioRech/YESB/JIOINAPPDIRECT",
+      "withdrawals": 49.00,
+      "deposits": 0.0,
+      "balance": 132061.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "20:12:38",
+      "transaction_id": "V19139858",
+      "transferred": "UPIAR/662759488757/DR/UKIFOOD/HDFC/Vyapar.1686857",
+      "withdrawals": 2116.00,
+      "deposits": 0.0,
+      "balance": 129945.12
+    },
+    {
+      "date": "28-05-2025",
+      "time": "22:46:45",
+      "transaction_id": "V27266312",
+      "transferred": "UPIAR/553248417430/DR/JYOTI BH/HDFC/770282079@ib",
+      "withdrawals": 170.00,
+      "deposits": 0.0,
+      "balance": 129775.12
+    },
+    {
+      "date": "29-05-2025",
+      "time": "22:55:58",
+      "transaction_id": "V27470759",
+      "transferred": "UPIAR/133348335008/DR/PANKAJK/KARB/pkumar25260-1@",
+      "withdrawals": 574.00,
+      "deposits": 0.0,
+      "balance": 129201.12
+    },
+    {
+      "date": "29-05-2025",
+      "time": "15:57:42",
+      "transaction_id": "V59348294",
+      "transferred": "UPIAR/478205501909/DR/Mohammed/FINO/9177398578-4@y",
+      "withdrawals": 108.00,
+      "deposits": 0.0,
+      "balance": 129093.12
+    },
+    {
+      "date": "29-05-2025",
+      "time": "16:01:02",
+      "transaction_id": "V59511108",
+      "transferred": "UPIAR/240439702216/DR/Cafe Cof/YESB/Q231811891@yb",
+      "withdrawals": 701.00,
+      "deposits": 0.0,
+      "balance": 128392.12
+    },
+    {
+      "date": "29-05-2025",
+      "time": "17:03:51",
+      "transaction_id": "V62680552",
+      "transferred": "UPIAR/013023854079/DR/MrJAHAN/YESB/paytmqr5bw65o@",
+      "withdrawals": 19.00,
+      "deposits": 0.0,
+      "balance": 128373.12
+    },
+    {
+      "date": "29-05-2025",
+      "time": "17:42:31",
+      "transaction_id": "V64945176",
+      "transferred": "UPIAR/782431141231/DR/DHANAVAT/UBIN/swamidharavath",
+      "withdrawals": 146.00,
+      "deposits": 0.0,
+      "balance": 128227.12
+    },
+    {
+      "date": "29-05-2025",
+      "time": "18:51:48",
+      "transaction_id": "V69813921",
+      "transferred": "UPIAR/217179450784/DR/ERUKULLA/YESB/Q292905510@yb",
+      "withdrawals": 37.00,
+      "deposits": 0.0,
+      "balance": 128190.12
+    },
+    {
+      "date": "29-05-2025",
+      "time": "19:26:41",
+      "transaction_id": "V72839966",
+      "transferred": "UPIAR/911426401409/DR/SriSuja/YESB/paytmqr5erc9a@",
+      "withdrawals": 700.00,
+      "deposits": 0.0,
+      "balance": 127490.12
+    },
+    {
+      "date": "29-05-2025",
+      "time": "20:05:07",
+      "transaction_id": "V76021303",
+      "transferred": "UPIAR/514981169398/DR/NISHASA/BARB/nisha.tated21@",
+      "withdrawals": 12000.00,
+      "deposits": 0.0,
+      "balance": 115490.12
+    },
+    {
+      "date": "29-05-2025",
+      "time": "20:09:31",
+      "transaction_id": "V76364721",
+      "transferred": "UPIAR/514956473796/DR/NISHASA/BARB/nisha.tated21@",
+      "withdrawals": 810.00,
+      "deposits": 0.0,
+      "balance": 114680.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "00:18:30",
+      "transaction_id": "V85785384",
+      "transferred": "UPIAR/006906957273/DR/SHAIK SH/YESB/Q849675155@yb",
+      "withdrawals": 40.00,
+      "deposits": 0.0,
+      "balance": 114640.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "00:23:56",
+      "transaction_id": "V85817906",
+      "transferred": "UPIAB/223494144835/CR/GOVINDAM/SBIN/8332828602@ib",
+      "withdrawals": 0.0,
+      "deposits": 12810.00,
+      "balance": 127450.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "00:24:17",
+      "transaction_id": "V85809899",
+      "transferred": "UPIAR/768798047557/DR/MrMOMSA/YESB/Q106045186@yb",
+      "withdrawals": 100.00,
+      "deposits": 0.0,
+      "balance": 127350.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "00:41:00",
+      "transaction_id": "V85930527",
+      "transferred": "UPIAR/325666638703/DR/PADISHAL/UTIB/sandeep.padish",
+      "withdrawals": 1500.00,
+      "deposits": 0.0,
+      "balance": 125850.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "01:11:45",
+      "transaction_id": "V86060818",
+      "transferred": "UPIAR/913383787142/DR/DANTURI/SBIN/prasad.danturi",
+      "withdrawals": 700.00,
+      "deposits": 0.0,
+      "balance": 125150.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "03:23:30",
+      "transaction_id": "V86478928",
+      "transferred": "UPIAR/118074404337/DR/Pamparab/IDFB/6303532020-2@y",
+      "withdrawals": 1300.00,
+      "deposits": 0.0,
+      "balance": 123850.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "16:06:32",
+      "transaction_id": "W17457957",
+      "transferred": "UPIAR/220482783804/DR/CHACHAM/YESB/paytmqr62njec@",
+      "withdrawals": 1240.00,
+      "deposits": 0.0,
+      "balance": 122610.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "16:47:53",
+      "transaction_id": "W19568573",
+      "transferred": "UPIAR/006051778499/DR/PhonePe/YESB/BBPSBP@yb",
+      "withdrawals": 500.00,
+      "deposits": 0.0,
+      "balance": 122110.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "17:25:14",
+      "transaction_id": "W21692428",
+      "transferred": "UPIAR/859344630178/DR/RAMESH/FDRL/BHARATPE.90064",
+      "withdrawals": 20.00,
+      "deposits": 0.0,
+      "balance": 122090.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "21:27:25",
+      "transaction_id": "W40085972",
+      "transferred": "UPIAR/335835021273/DR/KACHHAVA/UNBA/BHARATPE.9O0N0",
+      "withdrawals": 1000.00,
+      "deposits": 0.0,
+      "balance": 121090.12
+    },
+    {
+      "date": "30-05-2025",
+      "time": "21:55:37",
+      "transaction_id": "W41448383",
+      "transferred": "UPIAR/613287410990/DR/SALMAN/KKBK/6301519338-3@i",
+      "withdrawals": 332.00,
+      "deposits": 0.0,
+      "balance": 120758.12
+    },
+    {
+      "date": "31-05-2025",
+      "time": "13:37:57",
+      "transaction_id": "W66729614",
+      "transferred": "UPIAR/189681815515/DR/Mr Surrv/YESB/Q535900961@yb",
+      "withdrawals": 600.00,
+      "deposits": 0.0,
+      "balance": 120158.12
+    },
+    {
+      "date": "31-05-2025",
+      "time": "13:47:46",
+      "transaction_id": "W67298987",
+      "transferred": "UPIAR/006574293321/DR/Ms Pinja/YESB/Q658011761@yb",
+      "withdrawals": 60.00,
+      "deposits": 0.0,
+      "balance": 120098.12
+    },
+    {
+      "date": "31-05-2025",
+      "time": "14:11:39",
+      "transaction_id": "W68565765",
+      "transferred": "UPIAR/271771940964/DR/SRI KAMO/YESB/Q046076777@yb",
+      "withdrawals": 60.00,
+      "deposits": 0.0,
+      "balance": 120038.12
+    },
+    {
+      "date": "31-05-2025",
+      "time": "15:16:17",
+      "transaction_id": "W71751718",
+      "transferred": "UPIAR/587885267260/DR/KACHHAVA/YESB/paytmqr5wy89x@",
+      "withdrawals": 1190.00,
+      "deposits": 0.0,
+      "balance": 118848.12
+    },
+    {
+      "date": "31-05-2025",
+      "time": "19:40:43",
+      "transaction_id": "W88943451",
+      "transferred": "UPIAR/495827251685/DR/SWIGGY/ICIC/upiswiggy@icic",
+      "withdrawals": 1755.00,
+      "deposits": 0.0,
+      "balance": 117093.12
+    },
+    {
+      "date": "31-05-2025",
+      "time": "19:55:42",
+      "transaction_id": "W90271632",
+      "transferred": "UPIAR/526815492260/DR/Swiggy/ICIC/swiggystores@i",
+      "withdrawals": 147.00,
+      "deposits": 0.0,
+      "balance": 116946.12
+    },
+    {
+      "date": "01-06-2025",
+      "time": "17:54:31",
+      "transaction_id": "X38223514",
+      "transferred": "UPIAR/631194717486/DR/SwiggyL/UTIB/swiggy.stores@",
+      "withdrawals": 762.00,
+      "deposits": 0.0,
+      "balance": 116184.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "08:47:36",
+      "transaction_id": "X71066525",
+      "transferred": "UPIAR/124494142535/DR/Mr Jaga/YESB/Q733797094@yb",
+      "withdrawals": 149.00,
+      "deposits": 0.0,
+      "balance": 116035.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "08:48:26",
+      "transaction_id": "X71125720",
+      "transferred": "UPIAR/143945659380/DR/Hyderaba/YESB/HYDMETROINAPP@",
+      "withdrawals": 69.00,
+      "deposits": 0.0,
+      "balance": 115966.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "11:37:58",
+      "transaction_id": "X81389826",
+      "transferred": "UPIAR/000197000932/DR/PALLELA/UTIB/9866888811@yb",
+      "withdrawals": 25000.00,
+      "deposits": 0.0,
+      "balance": 90966.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "17:04:58",
+      "transaction_id": "X99929407",
+      "transferred": "UPIAR/192542104576/DR/Hyderaba/UTIB/HYDMETROINAPP@",
+      "withdrawals": 69.00,
+      "deposits": 0.0,
+      "balance": 90997.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "18:02:24",
+      "transaction_id": "Y3735587",
+      "transferred": "UPIAR/733036498228/DR/RNGREEN/UTIB/MAB.0373470053",
+      "withdrawals": 440.00,
+      "deposits": 0.0,
+      "balance": 90557.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "18:30:26",
+      "transaction_id": "Y5847047",
+      "transferred": "UPIAR/581112965585/DR/JATAVATH/UBIN/chantijatavath",
+      "withdrawals": 185.00,
+      "deposits": 0.0,
+      "balance": 90372.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "22:06:14",
+      "transaction_id": "Y23126075",
+      "transferred": "UPIAR/042105056458/DR/Revvsel/AIRP/revv819557.rzp",
+      "withdrawals": 5000.00,
+      "deposits": 0.0,
+      "balance": 85372.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "22:23:40",
+      "transaction_id": "Y23776414",
+      "transferred": "UPIAR/697505227460/DR/MakeMyTr/UTIB/makemytrip.rzp",
+      "withdrawals": 21482.00,
+      "deposits": 0.0,
+      "balance": 63890.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "22:24:26",
+      "transaction_id": "Y23799100",
+      "transferred": "UPIAB/048813513635/CR/M SHEESA/UBIN/sheesareji@yb",
+      "withdrawals": 0.0,
+      "deposits": 22000.00,
+      "balance": 85890.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "22:29:38",
+      "transaction_id": "Y23977455",
+      "transferred": "UPIAB/676671009648/CR/M SHEESA/UBIN/sheesareji@ib",
+      "withdrawals": 0.0,
+      "deposits": 20000.00,
+      "balance": 105890.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "22:30:02",
+      "transaction_id": "Y23986179",
+      "transferred": "UPIAR/397077610863/DR/MakeMyTr/UTIB/makemytrip.rzp",
+      "withdrawals": 21526.00,
+      "deposits": 0.0,
+      "balance": 84364.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "22:30:08",
+      "transaction_id": "Y23998164",
+      "transferred": "UPIAB/769988897607/CR/M SHEESA/UBIN/sheesareji@yb",
+      "withdrawals": 0.0,
+      "deposits": 2000.00,
+      "balance": 86364.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "23:09:21",
+      "transaction_id": "Y25051852",
+      "transferred": "UPIAR/551914845508/DR/MAKEMYTR/HDFC/makemytrip.hot",
+      "withdrawals": 12931.00,
+      "deposits": 0.0,
+      "balance": 73433.12
+    },
+    {
+      "date": "02-06-2025",
+      "time": "23:09:21",
+      "transaction_id": "Y25051852",
+      "transferred": "UPIAR/551914845508/DR/MAKEMYTR/HDFC/makemytrip.hot",
+      "withdrawals": 7291.00,
+      "deposits": 0.0,
+      "balance": 66142.12
+    },
+    {
+      "date": "03-06-2025",
+      "time": "08:53:06",
+      "transaction_id": "Y35998554",
+      "transferred": "UPIAR/931968056662/DR/THANDRA/SBIN/8106558272@ib",
+      "withdrawals": 149.00,
+      "deposits": 0.0,
+      "balance": 66193.12
+    },
+    {
+      "date": "03-06-2025",
+      "time": "08:53:56",
+      "transaction_id": "Y36043165",
+      "transferred": "UPIAR/435770642986/DR/Hyderaba/YESB/HYDMETROINAPP@",
+      "withdrawals": 69.00,
+      "deposits": 0.0,
+      "balance": 66124.12
+    },
+    {
+      "date": "03-06-2025",
+      "time": "17:26:20",
+      "transaction_id": "Y65068894",
+      "transferred": "UPIAR/556507032286/DR/Hyderaba/UTIB/HYDMETROINAPP@",
+      "withdrawals": 69.00,
+      "deposits": 0.0,
+      "balance": 66055.12
+    },
+    {
+      "date": "03-06-2025",
+      "time": "18:46:35",
+      "transaction_id": "Y71066340",
+      "transferred": "UPIAR/997603591378/DR/VADTHYA/IPOS/vadthyashivash",
+      "withdrawals": 170.00,
+      "deposits": 0.0,
+      "balance": 65885.12
+    },
+    {
+      "date": "03-06-2025",
+      "time": "22:06:33",
+      "transaction_id": "Y86568554",
+      "transferred": "UPIAR/250354559999/DR/SRI THIR/YESB/Q949463879@yb",
+      "withdrawals": 730.00,
+      "deposits": 0.0,
+      "balance": 65155.12
+    },
+    {
+      "date": "04-06-2025",
+      "time": "19:03:08",
+      "transaction_id": "S34844594",
+      "transferred": "UPIAR/927907055574/DR/Cafe Cof/YESB/Q684093786@yb",
+      "withdrawals": 690.00,
+      "deposits": 0.0,
+      "balance": 64465.12
+    },
+    {
+      "date": "04-06-2025",
+      "time": "23:19:49",
+      "transaction_id": "S51376195",
+      "transferred": "UPIAR/088586621821/DR/Swiggy L/UTIB/swiggyupi@ax",
+      "withdrawals": 398.00,
+      "deposits": 0.0,
+      "balance": 64067.12
+    },
+    {
+      "date": "05-06-2025",
+      "time": "11:39:22",
+      "transaction_id": "S71369800",
+      "transferred": "UPIAR/022416377239/DR/AirtelR/UTIB/AIRTELPREDIREC",
+      "withdrawals": 49.00,
+      "deposits": 0.0,
+      "balance": 64018.12
+    },
+    {
+      "date": "05-06-2025",
+      "time": "13:10:06",
+      "transaction_id": "S76795663",
+      "transferred": "NEFT:MONDEETECH PRIVATE LIMITED CMS1562511972383",
+      "withdrawals": 0.0,
+      "deposits": 145202.00,
+      "balance": 208920.12
+    },
+    {
+      "date": "05-06-2025",
+      "time": "17:19:00",
+      "transaction_id": "S89696133",
+      "transferred": "NACH/10/9251519999/PRP598188/Y",
+      "withdrawals": 11674.00,
+      "deposits": 0.0,
+      "balance": 197246.12
+    },
+    {
+      "date": "05-06-2025",
+      "time": "17:28:08",
+      "transaction_id": "S90753941",
+      "transferred": "UPIAR/439662440422/DR/VALLABOT/YESB/Q861325474@yb",
+      "withdrawals": 40.00,
+      "deposits": 0.0,
+      "balance": 197206.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "11:26:49",
+      "transaction_id": "T33580515",
+      "transferred": "UPIAR/752713798826/DR/Katravat/SBIN/katravathgopal",
+      "withdrawals": 183.00,
+      "deposits": 0.0,
+      "balance": 197023.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "11:28:18",
+      "transaction_id": "T33668691",
+      "transferred": "UPIAR/470691931796/DR/Hyderaba/YESB/HYDMETROINAPP@",
+      "withdrawals": 69.00,
+      "deposits": 0.0,
+      "balance": 196954.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "16:20:05",
+      "transaction_id": "T49630677",
+      "transferred": "UPIAR/107611755042/DR/MrGEDDA/YESB/paytmqr2810050",
+      "withdrawals": 19.00,
+      "deposits": 0.0,
+      "balance": 196935.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "17:39:23",
+      "transaction_id": "T54534619",
+      "transferred": "UPIAR/952960559018/DR/Hyderaba/UTIB/HYDMETROINAPP@",
+      "withdrawals": 69.00,
+      "deposits": 0.0,
+      "balance": 196866.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "19:06:20",
+      "transaction_id": "T61455931",
+      "transferred": "UPIAR/552351595514/DR/ShobhaP/UTIB/gpay-112540753",
+      "withdrawals": 184.00,
+      "deposits": 0.0,
+      "balance": 196682.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "21:21:49",
+      "transaction_id": "T73516086",
+      "transferred": "UPIAR/515789409974/DR/PADMARAG/YESB/q088028788@yb",
+      "withdrawals": 900.00,
+      "deposits": 0.0,
+      "balance": 195782.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "21:40:18",
+      "transaction_id": "T74774015",
+      "transferred": "UPIAR/515797008976/DR/MANJULA/YESB/9000146047-2@y",
+      "withdrawals": 1500.00,
+      "deposits": 0.0,
+      "balance": 194282.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "21:40:37",
+      "transaction_id": "T74793965",
+      "transferred": "UPIAR/515733110397/DR/Srinivas/YESB/paytm-78085310",
+      "withdrawals": 50.00,
+      "deposits": 0.0,
+      "balance": 194232.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "22:46:06",
+      "transaction_id": "T77875168",
+      "transferred": "UPIAR/552371697891/DR/Mahi Nag/AIRP/9861130398@ib",
+      "withdrawals": 500.00,
+      "deposits": 0.0,
+      "balance": 193732.12
+    },
+    {
+      "date": "06-06-2025",
+      "time": "23:03:16",
+      "transaction_id": "T78370916",
+      "transferred": "UPIAR/515786017907/DR/Mahi Nag/AIRP/9861130398@ib",
+      "withdrawals": 500.00,
+      "deposits": 0.0,
+      "balance": 193232.12
+    },
+    {
+      "date": "07-06-2025",
+      "time": "01:20:01",
+      "transaction_id": "T80100823",
+      "transferred": "UPIAR/515863409689/DR/SwiggyL/UTIB/swiggy1online.",
+      "withdrawals": 687.00,
+      "deposits": 0.0,
+      "balance": 192545.12
+    },
+    {
+      "date": "07-06-2025",
+      "time": "22:05:55",
+      "transaction_id": "U31843601",
+      "transferred": "UPIAR/515845481247/DR/BPCLCOC/YESB/paytmqrw39ytiu",
+      "withdrawals": 550.00,
+      "deposits": 0.0,
+      "balance": 191995.12
+    },
+    {
+      "date": "07-06-2025",
+      "time": "22:27:45",
+      "transaction_id": "U32603297",
+      "transferred": "UPIAR/515894769229/DR/SRIKART/YESB/paytmqr617cpj@",
+      "withdrawals": 20.00,
+      "deposits": 0.0,
+      "balance": 191975.12
+    }
+  ]
+}
